@@ -27,14 +27,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadariqm&show_icons=true&theme=radical" alt="ariq's stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadariqm&layout=compact&theme=radical" alt="top langs" height="180"/>
-</p>
-
----
-
 ### 🌐 Find Me
 <p align="center">
   <a href="https://instagram.com/kurik.kurik.boy" target="_blank">
